@@ -1,14 +1,52 @@
-[
-  {
-    "id": 1,
-    "title": "Post 1"
-  },
-  {
-    "id": 2,
-    "title": "Post 2"
-  },
-  {
-    "id": 3,
-    "title": "Post 3"
-  }
-]
+{
+  "FinancialEntity": [
+    {
+      "finEntiCode": 1,
+      "finEntiAccountBCE": "172549963455",
+      "finEntiCodeBCE": "12345",
+      "finEntiNameCooperative": "Cooperativa Alianza del Valle",
+      "finEntiBusinessName": "Cooperativa",
+      "finEntiBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\financialEntity\\alianzadelValle.png",
+      "finEntiBusinessNamePath": "alianzadelValle.png",
+      "finEntiDateCreation": "18/06/2012 10:34:09",
+      "finEntiActive": true,
+      "finEntiState": 1
+    },
+    {
+      "finEntiCode": 2,
+      "finEntiAccountBCE": "1234567890",
+      "finEntiCodeBCE": "54321",
+      "finEntiNameCooperative": "Cooperativa Policia Nacional",
+      "finEntiBusinessName": "Cooperativa",
+      "finEntiBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\cooperativaPoliciaNacional.jpg",
+      "finEntiBusinessNamePath": "cooperativaPoliciaNacional.jpg",
+      "finEntiDateCreation": "18/06/2019 10:34:09",
+      "finEntiActive": true,
+      "finEntiState": 1
+    },
+    {
+      "finEntiCode": 3,
+      "finEntiAccountBCE": "1357908642",
+      "finEntiCodeBCE": "13524",
+      "finEntiNameCooperative": "Cooperativa JEP",
+      "finEntiBusinessName": "Cooperativa",
+      "finEntiBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\jepCooperativa.jpg",
+      "finEntiBusinessNamePath": "jepCooperativa.jpg",
+      "finEntiDateCreation": "18/06/2012 10:34:09",
+      "finEntiActive": true,
+      "finEntiState": 1
+    },
+    {
+      "finEntiCode": 4,
+      "finEntiAccountBCE": "5555555555",
+      "finEntiCodeBCE": "11111",
+      "finEntiNameCooperative": "Cooperativa Mushuruna",
+      "finEntiBusinessName": "Cooperativa",
+      "finEntiBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\mushuRuna.png",
+      "finEntiBusinessNamePath": "mushuRuna.png",
+      "finEntiDateCreation": "18/06/2015 10:34:09",
+      "finEntiActive": true,
+      "finEntiState": 1
+    }
+  ]
+}
