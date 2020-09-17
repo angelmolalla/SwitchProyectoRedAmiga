@@ -1,5 +1,5 @@
 {
-  "FinancialEntityRedAmiga": [
+  "FinancialEntitiesRedAmiga": [
     {
       "finEntiCode": 1,
       "finEntiAccountBCE": "172549963455",
@@ -48,5 +48,17 @@
       "finEntiActive": true,
       "finEntiState": 1
     }
-  ]
+  ],
+  "FinancialEntityRedAmiga": {
+    "finEntiCode": 4,
+    "finEntiAccountBCE": "5555555555",
+    "finEntiCodeBCE": "11111",
+    "finEntiNameCooperative": "Cooperativa Mushuruna",
+    "finEntiBusinessName": "Cooperativa",
+    "finEntiBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\mushuRuna.png",
+    "finEntiBusinessNamePath": "mushuRuna.png",
+    "finEntiDateCreation": "18/06/2015 10:34:09",
+    "finEntiActive": true,
+    "finEntiState": 1
+  }
 }
