@@ -60,5 +60,45 @@
     "finEntiDateCreation": "18/06/2015 10:34:09",
     "finEntiActive": true,
     "finEntiState": 1
-  }
+  },
+  "FinancialAccountRedAmiga": [
+    {
+      "FinancialAccountCode": 1,
+      "FinancialAccountNumber": 123456789,
+      "FinancialAccountDateCreation": "28/04/2020",
+      "FinancialAccountType": "Ahorros",
+      "FinancialEntityRedAmiga": {
+        "finEntiCode": 4,
+        "finEntiAccountBCE": "5555555555",
+        "finEntiCodeBCE": "11111",
+        "finEntiNameCooperative": "Cooperativa Mushuruna",
+        "finEntiBusinessName": "Cooperativa",
+        "finEntiBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\mushuRuna.png",
+        "finEntiBusinessNamePath": "mushuRuna.png",
+        "finEntiDateCreation": "18/06/2015 10:34:09",
+        "finEntiActive": true,
+        "finEntiState": 1
+      },
+      "FinancialAccountActive": true
+    },
+    {
+      "FinancialAccountCode": 1,
+      "FinancialAccountNumber": 987654321,
+      "FinancialAccountDateCreation": "29/04/2020",
+      "FinancialAccountType": "Corriente",
+      "FinancialEntityRedAmiga": {
+        "finEntiCode": 4,
+        "finEntiAccountBCE": "5555555555",
+        "finEntiCodeBCE": "11111",
+        "finEntiNameCooperative": "Cooperativa Mushuruna",
+        "finEntiBusinessName": "Cooperativa",
+        "finEntiBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\mushuRuna.png",
+        "finEntiBusinessNamePath": "mushuRuna.png",
+        "finEntiDateCreation": "18/06/2015 10:34:09",
+        "finEntiActive": true,
+        "finEntiState": 1
+      },
+      "FinancialAccountActive": true
+    }
+  ]
 }
