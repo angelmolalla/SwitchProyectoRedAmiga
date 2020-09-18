@@ -67,6 +67,8 @@
       "financialAccountNumber": 123456789,
       "financialAccountDateCreation": "28/04/2020 10:34:09",
       "financialAccountType": "Ahorros",
+      "financialAccountActive": true,
+      "financialAccountState": 1,
       "financialEntityRedAmiga": {
         "financialEntityCode": 4,
         "financialEntityAccountBCE": "5555555555",
@@ -78,15 +80,15 @@
         "financialEntityDateCreation": "18/06/2015 10:34:09",
         "financialEntityActive": true,
         "financialEntityState": 1
-      },
-      "financialAccountActive": true,
-      "financialEntityState": 1
+      }
     },
     {
       "financialAccountCode": 1,
       "financialAccountNumber": 987654321,
       "financialAccountDateCreation": "29/04/2020 10:34:09",
       "financialAccountType": "Corriente",
+      "financialAccountActive": true,
+      "financialAccountState": 1,
       "financialEntityRedAmiga": {
         "financialEntityCode": 4,
         "financialEntityAccountBCE": "5555555555",
@@ -98,9 +100,7 @@
         "financialEntityDateCreation": "18/06/2015 10:34:09",
         "financialEntityActive": true,
         "financialEntityState": 1
-      },
-      "financialAccountActive": true,
-      "financialEntityState": 1
+      }
     }
   ]
 }
