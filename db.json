@@ -5,7 +5,6 @@
       "financialEntityAccountBCE": "172549963455",
       "financialEntityCodeBCE": "12345",
       "financialEntityNameCooperative": "Cooperativa Alianza del Valle",
-      "financialEntityBusinessName": "Cooperative",
       "financialEntityImageURL": "https://alianzadelvalle.hiringroom.com/data/accounts/alianzadelvalle/microsite/9b6f75f45c7e8a7fe0cd8f4243f47f60.png"
     },
     {
@@ -20,14 +19,14 @@
       "financialEntityAccountBCE": "1357908642",
       "financialEntityCodeBCE": "13524",
       "financialEntityNameCooperative": "Cooperativa JEP",
-      "financialEntityBusinessPath": "https://estadodecuenta.org/wp-content/uploads/2020/04/Estado-de-Cuenta-Jep-1.jpg"
+      "financialEntityImageURL": "https://estadodecuenta.org/wp-content/uploads/2020/04/Estado-de-Cuenta-Jep-1.jpg"
     },
     {
       "financialEntityCode": 4,
       "financialEntityAccountBCE": "5555555555",
       "financialEntityCodeBCE": "11111",
       "financialEntityNameCooperative": "Cooperativa Mushuruna",
-      "financialEntityBusinessPath": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
+      "financialEntityImageURL": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
     }
   ],
   "FinancialEntityRedAmiga": {
@@ -35,7 +34,7 @@
     "financialEntityAccountBCE": "5555555555",
     "financialEntityCodeBCE": "11111",
     "financialEntityNameCooperative": "Cooperativa Mushuruna",
-    "financialEntityBusinessPath": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
+    "financialEntityImageURL": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
   },
   "FinancialAccountRedAmiga": [
     {
@@ -47,7 +46,7 @@
         "financialEntityAccountBCE": "5555555555",
         "financialEntityCodeBCE": "11111",
         "financialEntityNameCooperative": "Cooperativa Mushuruna",
-        "financialEntityBusinessPath": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
+        "financialEntityImageURL": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
       },
       "transactionList": [
         {
@@ -75,7 +74,7 @@
         "financialEntityAccountBCE": "5555555555",
         "financialEntityCodeBCE": "11111",
         "financialEntityNameCooperative": "Cooperativa Mushuruna",
-        "financialEntityBusinessPath": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
+        "financialEntityImageURL": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
       },
       "transactionList": [
         {
