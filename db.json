@@ -5,48 +5,29 @@
       "financialEntityAccountBCE": "172549963455",
       "financialEntityCodeBCE": "12345",
       "financialEntityNameCooperative": "Cooperativa Alianza del Valle",
-      "financialEntityBusinessName": "Cooperativa",
-      "financialEntityBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\financialEntity\\alianzadelValle.png",
-      "financialEntityBusinessNamePath": "alianzadelValle.png",
-      "financialEntityDateCreation": "18/06/2012 10:34:09",
-      "financialEntityActive": true,
-      "financialEntityState": 1
+      "financialEntityBusinessName": "Cooperative",
+      "financialEntityImageURL": "https://alianzadelvalle.hiringroom.com/data/accounts/alianzadelvalle/microsite/9b6f75f45c7e8a7fe0cd8f4243f47f60.png"
     },
     {
       "financialEntityCode": 2,
       "financialEntityAccountBCE": "1234567890",
       "financialEntityCodeBCE": "54321",
-      "financialEntityNameCooperative": "Cooperativa Policia Nacional",
-      "financialEntityBusinessName": "Cooperativa",
-      "financialEntityBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\cooperativaPoliciaNacional.jpg",
-      "financialEntityBusinessNamePath": "cooperativaPoliciaNacional.jpg",
-      "financialEntityDateCreation": "18/06/2019 10:34:09",
-      "financialEntityActive": true,
-      "financialEntityState": 1
+      "financialEntityNameCooperative": "Cooperativa Policía Nacional",
+      "financialEntityImageURL": "https://www.cpn.fin.ec/frontend/web/images/logo_cpn.jpg"
     },
     {
       "financialEntityCode": 3,
       "financialEntityAccountBCE": "1357908642",
       "financialEntityCodeBCE": "13524",
       "financialEntityNameCooperative": "Cooperativa JEP",
-      "financialEntityBusinessName": "Cooperativa",
-      "financialEntityBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\jepCooperativa.jpg",
-      "financialEntityBusinessNamePath": "jepCooperativa.jpg",
-      "financialEntityDateCreation": "18/06/2012 10:34:09",
-      "financialEntityActive": true,
-      "financialEntityState": 1
+      "financialEntityBusinessPath": "https://estadodecuenta.org/wp-content/uploads/2020/04/Estado-de-Cuenta-Jep-1.jpg"
     },
     {
       "financialEntityCode": 4,
       "financialEntityAccountBCE": "5555555555",
       "financialEntityCodeBCE": "11111",
       "financialEntityNameCooperative": "Cooperativa Mushuruna",
-      "financialEntityBusinessName": "Cooperativa",
-      "financialEntityBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\mushuRuna.png",
-      "financialEntityBusinessNamePath": "mushuRuna.png",
-      "financialEntityDateCreation": "18/06/2015 10:34:09",
-      "financialEntityActive": true,
-      "financialEntityState": 1
+      "financialEntityBusinessPath": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
     }
   ],
   "FinancialEntityRedAmiga": {
@@ -54,53 +35,64 @@
     "financialEntityAccountBCE": "5555555555",
     "financialEntityCodeBCE": "11111",
     "financialEntityNameCooperative": "Cooperativa Mushuruna",
-    "financialEntityBusinessName": "Cooperativa",
-    "financialEntityBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\mushuRuna.png",
-    "financialEntityBusinessNamePath": "mushuRuna.png",
-    "financialEntityDateCreation": "18/06/2015 10:34:09",
-    "financialEntityActive": true,
-    "financialEntityState": 1
+    "financialEntityBusinessPath": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
   },
   "FinancialAccountRedAmiga": [
     {
       "financialAccountCode": 1,
       "financialAccountNumber": 123456789,
-      "financialAccountDateCreation": "28/04/2020 10:34:09",
-      "financialAccountType": "Ahorros",
-      "financialAccountActive": true,
-      "financialAccountState": 1,
+      "financialAccountType": "Current Account",
       "financialEntityRedAmiga": {
         "financialEntityCode": 4,
         "financialEntityAccountBCE": "5555555555",
         "financialEntityCodeBCE": "11111",
         "financialEntityNameCooperative": "Cooperativa Mushuruna",
-        "financialEntityBusinessName": "Cooperativa",
-        "financialEntityBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\mushuRuna.png",
-        "financialEntityBusinessNamePath": "mushuRuna.png",
-        "financialEntityDateCreation": "18/06/2015 10:34:09",
-        "financialEntityActive": true,
-        "financialEntityState": 1
-      }
+        "financialEntityBusinessPath": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
+      },
+      "transactionList": [
+        {
+          "transactionCode": 1,
+          "transactionAmount": 220.7,
+          "transactionType": "accredit",
+          "transactionDescription": "Deposito de Pedro Huerta",
+          "transactionDate": "18/06/2012 10:34:09"
+        },
+        {
+          "transactionCode": 2,
+          "transactionAmount": 10.7,
+          "transactionType": "debit",
+          "transactionDescription": "Pago Luz",
+          "transactionDate": "09/09/2020 10:34:09"
+        }
+      ]
     },
     {
-      "financialAccountCode": 1,
+      "financialAccountCode": 2,
       "financialAccountNumber": 987654321,
-      "financialAccountDateCreation": "29/04/2020 10:34:09",
-      "financialAccountType": "Corriente",
-      "financialAccountActive": true,
-      "financialAccountState": 1,
+      "financialAccountType": "Savings Account",
       "financialEntityRedAmiga": {
         "financialEntityCode": 4,
         "financialEntityAccountBCE": "5555555555",
         "financialEntityCodeBCE": "11111",
         "financialEntityNameCooperative": "Cooperativa Mushuruna",
-        "financialEntityBusinessName": "Cooperativa",
-        "financialEntityBusinessPath": "C:\\RepositorioEmagic\\projectRedAmiga\\uploads\\mushuRuna.png",
-        "financialEntityBusinessNamePath": "mushuRuna.png",
-        "financialEntityDateCreation": "18/06/2015 10:34:09",
-        "financialEntityActive": true,
-        "financialEntityState": 1
-      }
+        "financialEntityBusinessPath": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
+      },
+      "transactionList": [
+        {
+          "transactionCode": 3,
+          "transactionAmount": 220.7,
+          "transactionType": "accredit",
+          "transactionDescription": "Deposito de Marco Huerta",
+          "transactionDate": "18/05/2012 10:34:09"
+        },
+        {
+          "transactionCode": 4,
+          "transactionAmount": 10.7,
+          "transactionType": "debit",
+          "transactionDescription": "Pago Luz",
+          "transactionDate": "09/08/2020 10:34:09"
+        }
+      ]
     }
   ]
 }
